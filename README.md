@@ -4,7 +4,7 @@ A small NodeJS CLI utility that mass converts HEIC files to PNG format.
 ## How to run
 Download the repo as a folder and `cd` into it.
 
-Run `node main.js`.
+Run `node src/main.js`.
 
 You will be prompted to give a path for the files to be converted, and the destination path. 
 
