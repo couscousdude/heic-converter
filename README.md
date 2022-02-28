@@ -8,6 +8,6 @@ Run `node main.js`.
 
 You will be prompted to give a path for the files to be converted, and the destination path. 
 
-!IMPORTANT: The destination path will be completely wiped before the program runs, so be careful! Make sure to make a new folder for the files.
+**!IMPORTANT: The destination path will be completely wiped before the program runs, so be careful! Make sure to make a new folder for the files.**
 
 After inputting the parameters, the program will begin working. 
